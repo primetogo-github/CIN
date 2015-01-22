@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <application xmlns="http://ns.adobe.com/air/application/3.4">
-    <id>CIN-test-windows-loop</id>
-    <versionNumber>1.4</versionNumber>
-    <filename>CIN_main_button_fix</filename>
-    <description>windows 7 version. Updated videos to higher quality mp4 and fixed navigation buttons. I also included the correct demo file ;)</description>
+    <id>CIN-test-windows-mp4</id>
+    <versionNumber>1.5</versionNumber>
+    <filename>CIN_main_mp4</filename>
+    <description>windows 7 version. Updated videos to higher quality mp4 and fixed navigation buttons. This time I attached the correct demo swf</description>
     <!-- To localize the description, use the following format for the description element.
 	<description>
 		<text xml:lang="en">English App description goes here</text>
@@ -11,7 +11,7 @@
 		<text xml:lang="ja">Japanese App description goes here</text>
 	</description>
 	-->
-    <name>CIN_main_button_fix</name>
+    <name>CIN_main_mp4</name>
     <!-- To localize the name, use the following format for the name element.
 	<name>
 		<text xml:lang="en">English App name goes here</text>
